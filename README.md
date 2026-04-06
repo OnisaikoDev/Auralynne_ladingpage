@@ -40,10 +40,4 @@ Esta landing page foi criada com o objetivo de apresentar um sistema digital de 
 
 ---
 
-## 📷 Preview
 
-![Preview do projeto](./assets/preview.png)
-
----
-
-## 📁 Estrutura do Projeto
