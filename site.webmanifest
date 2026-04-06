@@ -1,0 +1,16 @@
+{
+  "name": "Auralynne",
+  "short_name": "Auralynne",
+  "description": "Landing page da Auralynne para social media, sites e sistemas.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ead8d2",
+  "theme_color": "#dcc2ba",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
